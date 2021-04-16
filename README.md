@@ -1,0 +1,4 @@
+- 👋 Hi, I’m abhishek pandey
+- 👀 I’m interested in python
+- 🌱 I’m currently studing in  class 9 and learning python
+- 
